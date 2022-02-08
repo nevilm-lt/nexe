@@ -1,0 +1,19 @@
+---
+framework: mocha
+postMerge: 
+  pattern: 
+    - "./test/**/*.spec.ts"
+  strategy: 
+    threshold: 1
+    name: after_n_commits
+preMerge:
+  pattern:
+    - "./test/**/*.spec.ts"
+preRun:
+     command:
+        - npm ci
+postRun:
+     command:
+        - node --version
+        - node --version
+version: 2.1
