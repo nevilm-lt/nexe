@@ -1,0 +1,16 @@
+framework: mocha
+blocklist:
+  - "./test/target.spec.ts##Targets##should stringify and toString"
+preRun:
+  command:
+    - npm install         
+postMerge:
+  pattern: 
+    - "./test/*.spec.ts"
+preMerge:
+  pattern:
+    - "./test/*.spec.ts"
+postRun:
+  command:
+    - node --version
+version: 1.0
