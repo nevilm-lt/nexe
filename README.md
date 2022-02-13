@@ -4,7 +4,7 @@
 <p align="center"> 
   <a href="https://dev.azure.com/nexe-ci/Nexe/_build?definitionId=1"><img src="https://img.shields.io/azure-devops/build/nexe-ci/nexe/1/master.svg" alt="Build Status"></a>
   <a href="https://www.npmjs.com/package/nexe"><img src="https://img.shields.io/npm/dt/nexe.svg" alt="Downloads"></a>
-  <a href="https://www.npmjs.com/package/nexe"><img src="https://img.shields.io/npm/v/nexe.svg" alt="Version"></a>
+  <a href="https://www.npmjs.com/package/nexe"><img src="https://img.shields.io/npm/v/nexe.svg" alt="Version"></a> 
   <a href="https://www.npmjs.com/package/nexe"><img src="https://img.shields.io/npm/l/nexe.svg" alt="License"></a>
   <a href="https://discord.gg/2qTH52zNcZ"><img src="https://discordapp.com/api/guilds/814334925049561168/widget.png?style=shield"></a>
 </p>  
