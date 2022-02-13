@@ -28,7 +28,7 @@
 - Cross platform builds
 
 ## Usage
-
+ 
 - Application entrypoint:
 
   `nexe my-app.js`
