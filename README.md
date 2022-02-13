@@ -9,7 +9,7 @@
   <a href="https://discord.gg/2qTH52zNcZ"><img src="https://discordapp.com/api/guilds/814334925049561168/widget.png?style=shield"></a>
 </p>   
   
-<p align="center">Install:&nbsp<code>npm i nexe -g</code></p>     
+<p align="center">Install:&nbsp<code>npm i nexe -g</code></p>       
 <p align="center">Nexe is a command-line utility that compiles your Node.js application into a single executable file.</p>
 
 <p align="center">  
