@@ -12,7 +12,7 @@
 <p align="center">Install:&nbsp<code>npm i nexe -g</code></p>            
 <p align="center">Nexe is a command-line utility that compiles your Node.js application into a single executable file.</p>
  
-<p align="center">   
+<p align="center">    
   <img src="https://user-images.githubusercontent.com/5818726/30999006-df7e0ae0-a497-11e7-96db-9ce87ae67b34.gif"/>
 </p>
 
