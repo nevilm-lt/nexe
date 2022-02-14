@@ -19,7 +19,7 @@
 ## Motivation and Features
 
 - Self contained applications
-- Ability to run multiple applications with *different* node.js runtimes.
+- Ability to run multiple applications with *different* node.js runtimes. 
 - Distribute binaries without needing node / npm.
 - Idempotent builds
 - Start and deploy faster.
