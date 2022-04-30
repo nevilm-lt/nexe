@@ -3,7 +3,6 @@ blocklist:
   - "./test/target.spec.ts##Targets##should stringify and toString"
 preRun:
   command:
-    - echo ${REGION}
     - npm install         
 postMerge:
   pattern: 
@@ -14,5 +13,4 @@ preMerge:
 postRun:
   command:
     - node --version
-    - echo ${REGION}
 version: 1.0
